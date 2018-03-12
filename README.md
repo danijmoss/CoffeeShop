@@ -66,7 +66,7 @@ Open a browser window and go to http://localhost:3000/orders/1 to view the JSON 
 Here are the default routes to access the orders
 ```
 GET     /orders
-GET     /orders/{1}
+GET     /orders/{id}
 POST    /orders
 PUT     /orders 
 DELETE  /orders/{id}
