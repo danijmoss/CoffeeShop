@@ -1,5 +1,5 @@
 # jQuery Coffee Shop App
-A small application using JSON Server to host data displaying incoming orders for a coffee shop. 
+A small application using JSON Server to host data displaying incoming orders for a coffee shop. It is a UI addition to the small site created from the tutorial by [LearnCode.Academy](https://www.youtube.com/playlist?list=PLoYCgNOIyGABdI2V8I_SWo22tFpgh2s6_).
 
 The app uses a JSON file to create a local REST API to server the customer data. 
 
@@ -8,6 +8,7 @@ The site is styled with Bootstrap v. 3.3.7 and uses jQuery and AJAX to implement
 Mustache.js is used to create a template to display the incoming cutomer orders.
 
 # Resources
+- [jQuery for Beginners Tutorial Series] (https://www.youtube.com/playlist?list=PLoYCgNOIyGABdI2V8I_SWo22tFpgh2s6_)
 - [JSON Server](https://github.com/typicode/json-server)
 - [Bootstrap] (https://getbootstrap.com/docs/3.3/)
 - [MustacheJS] (https://github.com/janl/mustache.js/)
