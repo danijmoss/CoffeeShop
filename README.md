@@ -8,11 +8,11 @@ The site is styled with Bootstrap v. 3.3.7 and uses jQuery and AJAX to implement
 Mustache.js is used to create a template to display the incoming cutomer orders.
 
 # Resources
-- [jQuery for Beginners Tutorial Series] (https://goo.gl/Fuk4Va)
+- [jQuery for Beginners Tutorial Series](https://goo.gl/Fuk4Va)
 - [JSON Server](https://github.com/typicode/json-server)
-- [Bootstrap] (https://getbootstrap.com/docs/3.3/)
-- [MustacheJS] (https://github.com/janl/mustache.js/)
-- [jQuery] (https://developers.google.com/speed/libraries/#jquery)
+- [Bootstrap](https://getbootstrap.com/docs/3.3/)
+- [MustacheJS](https://github.com/janl/mustache.js/)
+- [jQuery](https://developers.google.com/speed/libraries/#jquery)
 
 # Installation and Usage
 Install json-server
